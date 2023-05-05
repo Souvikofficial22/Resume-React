@@ -1,0 +1,22 @@
+.left{
+    float: left;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+.right{
+    float: right;
+    margin-right: 20px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+.two-elements{
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    margin-top: 2px;
+    margin-left: 30px;
+    margin-bottom: 3px;
+}
